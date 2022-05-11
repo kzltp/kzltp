@@ -6,7 +6,7 @@
 <Br>
 <h1>About Me! 😎</h1>
 
-- 🔭: I’m currently working on as Devops Team Lead.
+- 🔭: I’m currently working on as Devops.
 - 🌱: I’m currently learning Groovy and Go. 
 - 💬: Could ask me about Middleware , Linux and Devops. 
 
