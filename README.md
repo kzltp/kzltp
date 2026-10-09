@@ -4,11 +4,6 @@
 <hr>
 <h1 align="center">I'm <a href="https://github.com/kzltp">Arif KIZILTEPE<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
-<h1>About Me! 😎</h1>
-
-- 🔭: I’m currently working on as Devops.
-- 🌱: I’m currently learning Groovy and Go. 
-- 💬: Could ask me about Middleware , Linux and Devops. 
 
   
 <hr>
